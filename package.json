@@ -1,0 +1,21 @@
+{
+  "name": "MountainProject-Scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --max-old-space-size=4096 src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AstonKhor/MountainProject-Scraper.git"
+  },
+  "keywords": [],
+  "author": "Aston Khor <khoraston@gmail.com> (NA)",
+  "license": "Aston",
+  "bugs": {
+    "url": "https://github.com/AstonKhor/MountainProject-Scraper/issues"
+  },
+  "homepage": "https://github.com/AstonKhor/MountainProject-Scraper#readme"
+}
